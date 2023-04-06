@@ -1,0 +1,12 @@
+[
+{"name": "John Smith", "age": 25, "city": "New York"},   
+{"name": "Emma Brown", "age": 32, "city": "Los Angeles"},  
+{"name": "Alex Johnson", "age": 28, "city": "Chicago"},  
+{"name": "Lily Patel", "age": 30, "city": "Houston"},   
+{"name": "Max Williams", "age": 35, "city": "San Francisco"},   
+{"name": "Jessica Lee", "age": 27, "city": "Seattle"},   
+{"name": "Samuel Rodriguez", "age": 40, "city": "Miami"},   
+{"name": "Emily Chen", "age": 23, "city": "Boston"},   
+{"name": "David Kim", "age": 33, "city": "Atlanta"},   
+{"name": "Sara Garcia", "age": 29, "city": "Dallas"}
+]

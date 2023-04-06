@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Emma Brown",
+        "age": 32,
+        "city": "Los Angeles"
+    },
+    {
+        "name": "Lily Patel",
+        "age": 30,
+        "city": "Houston"
+    },
+    {
+        "name": "Max Williams",
+        "age": 35,
+        "city": "San Francisco"
+    },
+    {
+        "name": "Samuel Rodriguez",
+        "age": 40,
+        "city": "Miami"
+    },
+    {
+        "name": "David Kim",
+        "age": 33,
+        "city": "Atlanta"
+    }
+]
